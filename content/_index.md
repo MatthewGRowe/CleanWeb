@@ -2,7 +2,15 @@
 date = 2024-06-26T10:34:54+01:00
 draft = true
 
-# Theme-Defined params
+#Menu 
+#Can use to add a new menu for just this page!
+#title = "Blimey"  #What you see on the menu
+#On the right-hand site
+#categories = [ "Category 1", "Category 2" ] #appear in the "categories section"
+#tags = [ "Test", "Another test" ]  #Buttons which appear in the "tags" section
+#menus = "main"
+
+#Theme-Defined params
 #thumbnail = "../img/construction.png" # Thumbnail image
 lead = "A short tutorial showing how to build your first winforms project" # Lead text
 comments = false # Enable Disqus comments for specific page
