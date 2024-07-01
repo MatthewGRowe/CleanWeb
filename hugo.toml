@@ -1,6 +1,6 @@
-baseURL = 'https://www.matthewrowe.co.uk/'
+baseURL = 'https://matthewrowe.co.uk/'
 languageCode = 'en-us'
-title = "Free Instruction Booklets for Programmers"
+title = "Matthew Rowe's Site"
 theme = 'mainroad'
 contentDir = 'content'
 
@@ -17,7 +17,7 @@ paginate = "10" # Number of posts per page
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  github = "https://github.com/MatthewGRowe"
+  github = "https://www.github.com/MatthewGRowe"
   email = "mrowe@eastnorfolk.ac.uk"
   #facebook = "username"
   #twitter = "@mickgoldbrick"
