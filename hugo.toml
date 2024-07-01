@@ -17,7 +17,7 @@ paginate = "10" # Number of posts per page
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  github = "MatthewGRowe"
+  #github = "MatthewGRowe"
   email = "mrowe@eastnorfolk.ac.uk"
   #facebook = "username"
   #twitter = "@mickgoldbrick"
