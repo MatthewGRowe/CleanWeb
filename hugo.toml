@@ -17,7 +17,7 @@ paginate = "10" # Number of posts per page
 [Params.widgets.social]
   cached = false # activate cache if true
   # Enable parts of social widget
-  github = "https://www.github.com/MatthewGRowe"
+  github = "MatthewGRowe"
   email = "mrowe@eastnorfolk.ac.uk"
   #facebook = "username"
   #twitter = "@mickgoldbrick"
@@ -62,7 +62,7 @@ paginate = "10" # Number of posts per page
 [menus]
   [[menus.main]]
     name = 'Home' #Words on the menu
-    pageRef = '/' #link to the folder
+    pageRef = './' #link to the folder
     weight = 10  #seems to dictate the order, higher=further right
   [[menus.main]]
     name = 'Winforms'
