@@ -1,9 +1,9 @@
 +++
-title = 'Tutorial 7 - Object Orientation Part 2 of 3'
+title = 'Tutorial 8 - Object Orientation Part 3 of 3'
 date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
-
+#Link is case sensitive!
 thumbnail = "img/winforms/OOP/cover3.png" #Thumbnail image
 
 lead = "This self-guided resource focuses on the use of Polymorphism, what it is, why it is uesful and how to write polymorphic functions." # Lead text
