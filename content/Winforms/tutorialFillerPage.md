@@ -1,5 +1,5 @@
 +++
-title = 'Tutorials 2-5 are coming soon!'
+title = 'Tutorial 2...5 - coming soon!'
 date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
