@@ -6,8 +6,15 @@
     <description>Recent content in Winforms on Matthew Rowe&#39;s Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jun 2024 10:50:33 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 12:42:36 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/winforms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choose a holiday! - Tutorial 1</title>
+      <link>http://localhost:1313/winforms/downloadable-tutorial-1/</link>
+      <pubDate>Mon, 01 Jul 2024 12:42:36 +0100</pubDate>
+      <guid>http://localhost:1313/winforms/downloadable-tutorial-1/</guid>
+      <description>How to quickly get a winforms app up and running This resource will enable you to build a simple Holiday selection app which will reccomend holidays to the user based on thier inputs.&#xA;You can download this and print it (if you have a single screen) or simply use it as a resource. It has been written in MS Word so can be edited if you wish.&#xA;Download The Document</description>
+    </item>
     <item>
       <title>WinForms - Getting Started</title>
       <link>http://localhost:1313/winforms/winformsgettingstarted/</link>
