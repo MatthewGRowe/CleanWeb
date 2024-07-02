@@ -12,6 +12,7 @@ paginate = "10" # Number of posts per page
   list = "right"
   single = "right"
 
+
   # Enable widgets in given order
   widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
 [Params.widgets.social]

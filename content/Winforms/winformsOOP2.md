@@ -1,12 +1,12 @@
 +++
-title = 'Tutorial 1 - Choose a holiday!'
+title = 'Tutorial 7 - Object Orientation Part 2 of 3'
 date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
 
-thumbnail = "img/winforms/doc1thumbnail.png" #Thumbnail image
+thumbnail = "img/winforms/oop/cover2.png" #Thumbnail image
 
-lead = "This self-guided resource will enable you and your student's to build a simple C# winforms 'Holiday Selection App' which will reccomend holidays to the user based on user inputs." # Lead text
+lead = "This self-guided resource focuses on more advanced OOP issues such as overloading and use of constructors." # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
@@ -20,7 +20,7 @@ sidebar = "right" # Enable sidebar (on the right side) per page
 <!-- #How to quickly get a winforms app up and running-->
 Simply use this guide as a self-guided classroom / training room resource.  It has been written in MS Word so you can use it as is, or you can edit  as appropriate. [^*]
 
-[CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/1jW_fVpvvUtN1uyhVgaYKsK0Jn0_WOlMK?usp=sharing)
+[CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/11lMwZYvxbKUVuaGyx9zhP66gTdC2ETbu?usp=sharing)
 
 [^*]: When editing any documents, please include an original author citation, thank you. 
 
