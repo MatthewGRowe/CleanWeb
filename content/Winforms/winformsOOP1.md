@@ -3,7 +3,7 @@ title = 'Tutorial 6 - Object Orientation Part 1 of 3'
 date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
-
+#Link is case sensitive!
 thumbnail = "img/winforms/OOP/cover1.png" #Thumbnail image
 
 lead = "This self-guided resource will enable you and your student's to build and work with classes in a C# winforms environment." # Lead text

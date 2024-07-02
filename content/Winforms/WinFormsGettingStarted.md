@@ -3,7 +3,8 @@ title = 'WinForms - Getting Started'
 date = 2024-06-26T10:50:33+01:00
 
 
-# Theme-Defined params
+#Theme-Defined params
+#Link is case sensitive!
 thumbnail = "img/winforms/winform11.png" # Thumbnail image
 lead = "A short tutorial showing how to build your first winforms project" # Lead text
 comments = false # Enable Disqus comments for specific page
