@@ -4,7 +4,7 @@ date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
 
-thumbnail = "img/winforms/oop/cover1.png" #Thumbnail image
+thumbnail = "img/winforms/OOP/cover1.png" #Thumbnail image
 
 lead = "This self-guided resource will enable you and your student's to build and work with classes in a C# winforms environment." # Lead text
 comments = false # Enable Disqus comments for specific page

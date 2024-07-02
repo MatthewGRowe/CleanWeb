@@ -4,7 +4,7 @@ date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
 
-thumbnail = "img/winforms/oop/cover3.png" #Thumbnail image
+thumbnail = "img/winforms/OOP/cover3.png" #Thumbnail image
 
 lead = "This self-guided resource focuses on the use of Polymorphism, what it is, why it is uesful and how to write polymorphic functions." # Lead text
 comments = false # Enable Disqus comments for specific page
