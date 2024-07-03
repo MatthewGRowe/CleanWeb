@@ -2,8 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/c%23-scripting/</loc>
+    <lastmod>2024-07-03T12:10:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/co-routines/</loc>
+    <lastmod>2024-07-03T12:10:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/debugging/</loc>
+    <lastmod>2024-07-03T12:10:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/layers/</loc>
+    <lastmod>2024-07-03T12:10:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prefabs/</loc>
+    <lastmod>2024-07-03T12:10:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sprite-sheets/</loc>
+    <lastmod>2024-07-03T12:10:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-03T12:10:23+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/unity/unitymanual2/</loc>
+    <lastmod>2024-07-03T12:10:23+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/unity/</loc>
     <lastmod>2024-07-02T15:53:54+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/attributes/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/c%23/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/classes/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/constructors/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/objects/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/oop/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/polymorphism/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sprite-editing/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/winforms/downloadable-tutorial-1/</loc>
     <lastmod>2024-07-01T12:42:36+01:00</lastmod>
@@ -23,11 +71,29 @@
     <loc>http://localhost:1313/winforms/winformsoop3/</loc>
     <lastmod>2024-07-01T12:42:36+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/under-construction/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/unity-character-movement/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/unity-physics/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/winforms/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/winforms/</loc>
+    <lastmod>2024-07-01T12:42:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/winforms-basics/</loc>
     <lastmod>2024-07-01T12:42:36+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/testpage2/</loc>
     <lastmod>2024-07-01T10:28:35+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <lastmod>2024-06-28T14:52:16+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-28T14:52:16+01:00</lastmod>
@@ -39,7 +105,5 @@
     <lastmod>2024-06-26T10:34:54+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
