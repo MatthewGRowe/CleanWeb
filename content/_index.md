@@ -34,9 +34,11 @@ You can use them in classrooms (printed out) or display them on a 2nd monitor an
 # Recent Activity:
 
 * 01/07/24 - Uploaded a series of doucments to the Winforms area (not complete)
-* 02/07/24 - Uploaded Tutorial 1 to the Unity area.  
-* 03/07/24 - Uploaded Tutorial 2 to the Unity area. 
+* 02/07/24 - Uploaded Tutorial 1 (Player) to the Unity area.  
+* 03/07/24 - Uploaded Tutorial 2 (Enemies) to the Unity area. 
 * 03/07/24 - Added Tags to Enhance Navigation 
+* 03/07/24 - Uploaded Tutorial 3 (Saw Blades) to the Unity area. 
+* 03/07/24 - Uploaded Tutorial 4 (Collectables) to the Unity area. 
 
 # Planned Activity:
 
