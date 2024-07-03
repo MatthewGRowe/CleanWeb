@@ -23,19 +23,25 @@ sidebar = "right" # Enable sidebar (on the right side) per page
 +++
 
 ![Construction](/img/construction.png)
-## Welcome to the Index Page 
+# Matthew Rowe's Website
 
-This site contains downloadable instruction booklets to help you learn programming.  I have written it for UK based, A level Computer Science students but feel free to use the materials here.  
+This site contains a series of documents which I have written which will help readers to learn C# programming in Winforms, Unity and ASP (MVC). I have tried to ensure the content is varied and interesting to read.  
 
 You can use them in classrooms (printed out) or stick them on a 2nd monitor and simply follow along.
 
-## Why C# Not Python?
+ 
 
-I have concentrated on C#, Python is an excellent language for quickly processing large amounts of numbers, it is very powerful.  But in my opinion it is not the right tool for learning.  C# provides a full-stack environmnet which works well with Winforms, Unity and MVC.  Therefore I have opted to concentrate on C#.  
+# Recent Activity:
 
-## Site Navigation:
-[Winforms](./Winforms/ "View some Winforms")
+* 01/07/24 - Uploaded a series of doucments to the Winforms area (not complete)
+* 02/07/24 - Uploaded Tutorial 1 to the Unity area.  
+* 03/07/24 - Uploaded Tutorial 2 to the Unity area. 
+* 03/07/24 - Added Tags to Enhance Navigation 
 
-## Recent Activity:
+# Planned Activity:
 
-Not much yet, still under construction!
+* Complete Winforms
+* Complete Unity
+* Add API / ASP documents
+* Add "About Me" page
+* Add "Hugo/Markdown/Git Hub hosting section"
