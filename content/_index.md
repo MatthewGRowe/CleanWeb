@@ -27,7 +27,7 @@ sidebar = "right" # Enable sidebar (on the right side) per page
 
 This site contains a series of documents which I have written which will help readers to learn C# programming in Winforms, Unity and ASP (MVC). I have tried to ensure the content is varied and interesting to read.  
 
-You can use them in classrooms (printed out) or stick them on a 2nd monitor and simply follow along.
+You can use them in classrooms (printed out) or display them on a 2nd monitor and simply follow along.
 
  
 
