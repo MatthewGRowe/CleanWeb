@@ -11,7 +11,7 @@ date = 2024-06-26T10:34:54+01:00
 #menus = "main"
 
 #Theme-Defined params
-#thumbnail = "../img/construction.png" # Thumbnail image
+thumbnail = "img/myface.jpg" # Thumbnail image
 lead = "A short tutorial showing how to build your first winforms project" # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
@@ -22,7 +22,7 @@ sidebar = "right" # Enable sidebar (on the right side) per page
 #widgets: # Enable sidebar widgets in given order per page
 +++
 
-![Construction](/img/construction.png)
+<!-- ![alt text](img/avatar.png) -->
 # Matthew Rowe's Website
 
 This site contains a series of documents which I have written which will help readers to learn C# programming in Winforms, Unity and ASP (MVC). I have tried to ensure the content is varied and interesting to read.  
