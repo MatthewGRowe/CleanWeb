@@ -16,6 +16,20 @@
       <description>Overview This tutorial will enable you to access data from an API in winform. It is a good place to start as you don&amp;rsquo;t need to learn MVC you can do everything you need within a familiar WinForms environment.&#xA;Simply use the document below as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate.</description>
     </item>
     <item>
+      <title>Tutorial 2 - Car Data API in ASP/MVC</title>
+      <link>http://localhost:1313/api/tutorial2/</link>
+      <pubDate>Thu, 04 Jul 2024 11:22:36 +0100</pubDate>
+      <guid>http://localhost:1313/api/tutorial2/</guid>
+      <description>Overview This tutorial will enable you to make a start building MVC (Model View Controller) apps. MVC uses a web front end. It is far more complex than winforms but the end result is more modern and much more attractive. This app requires you to create an account with: UK Vehicle Data, this can take up to two days to be authorised. Create your account as soon as you read this and come back to the tutorial once you have access.</description>
+    </item>
+    <item>
+      <title>Tutorial 3 - MVC with Spotify data</title>
+      <link>http://localhost:1313/api/tutorial3/</link>
+      <pubDate>Thu, 04 Jul 2024 11:22:36 +0100</pubDate>
+      <guid>http://localhost:1313/api/tutorial3/</guid>
+      <description>Overview This tutorial will enable you to access data from Spotify using MVC. This is a complex tutorial and will take some time to complete. This app requires you to create an account with: Spotify Developer. Create your account as soon as you read this and complete the tutorial once you have access.&#xA;Simply use the document below as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate.</description>
+    </item>
+    <item>
       <title>WinForms - Getting Started</title>
       <link>http://localhost:1313/winforms/winformsgettingstarted/</link>
       <pubDate>Wed, 03 Jul 2024 10:50:33 +0100</pubDate>
