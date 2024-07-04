@@ -9,6 +9,20 @@
     <lastBuildDate>Thu, 04 Jul 2024 11:22:36 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A2 (second year) - Powerpoints</title>
+      <link>http://localhost:1313/alevel/year2/powerpoints/</link>
+      <pubDate>Thu, 04 Jul 2024 11:22:36 +0100</pubDate>
+      <guid>http://localhost:1313/alevel/year2/powerpoints/</guid>
+      <description>Overview This tutorial will enable you to access data from an API in winform. It is a good place to start as you don&amp;rsquo;t need to learn MVC you can do everything you need within a familiar WinForms environment.&#xA;Simply use the document below as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate.</description>
+    </item>
+    <item>
+      <title>AS (year 1) - Powerpoints</title>
+      <link>http://localhost:1313/alevel/year1/powerpoints/</link>
+      <pubDate>Thu, 04 Jul 2024 11:22:36 +0100</pubDate>
+      <guid>http://localhost:1313/alevel/year1/powerpoints/</guid>
+      <description>Overview Below you will find links to the PowerPoints and associated resources that I use to deliver the OCR AS Level Computer Science Course.&#xA;H046/01 - Paper 1 Pseudocode Memory Programming (you will need some winforms experience for this one) RISC v CISC and Von Newmann v Harvard Evolution:- Please don&amp;rsquo;t worry about missing numbers, this has happened over time.&#xA;OS and CPU Scheduling Distributed, Embedded, Etc&amp;hellip; OS Compilers, Assemblers and Open Source Binary Arithmetic Floating Point and HEX Development Methodologies More evolution After changing textbooks I altered the order of the course, so some of the numbering goes a bit odd, lesson 12b has nothing to do with lesson 12 but they are delivered in that order.</description>
+    </item>
+    <item>
       <title>Tutorial 1 - Access an API with Winforms</title>
       <link>http://localhost:1313/api/tutorial1/</link>
       <pubDate>Thu, 04 Jul 2024 11:22:36 +0100</pubDate>
@@ -133,13 +147,6 @@
       <pubDate>Mon, 01 Jul 2024 10:28:35 +0100</pubDate>
       <guid>http://localhost:1313/testpage2/</guid>
       <description>This is a test page </description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Fri, 28 Jun 2024 14:52:16 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
