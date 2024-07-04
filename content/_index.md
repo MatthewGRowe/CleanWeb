@@ -39,11 +39,14 @@ You will need to download them and open in Word as reading online will make some
 * 03/07/24 - Added Tags to Enhance Navigation 
 * 03/07/24 - Uploaded Tutorial 3 (Saw Blades) to the Unity area. 
 * 03/07/24 - Uploaded Tutorial 4 (Collectables) to the Unity area. 
+* 04/07/24 - Completed Unity Uploads
+* 04/07/24 - Added AS Content to A level Section
 
 # Planned Activity:
 
 * Complete Winforms
-* Complete Unity
+* Complete A2 Page
+* ~~Complete Unity~~
 * Add API / ASP documents
 * Add "About Me" page
 * Add "Hugo/Markdown/Git Hub hosting section"
