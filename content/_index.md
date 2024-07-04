@@ -48,7 +48,7 @@ You will need to download them and open in Word as reading online will make some
 * Add "About Me" page
 * Add "Hugo/Markdown/Git Hub hosting section"
 
-# Newest Articles:
+# Recent Articles:
 
 Below you can see the latest articles added to this site.
 
