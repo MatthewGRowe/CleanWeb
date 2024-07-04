@@ -6,7 +6,7 @@ date = 2024-07-04T11:22:36+01:00
 #Link is case sensitive!
 thumbnail = "img/alevel/year2thumb.png" #Thumbnail image
 
-lead = "This area is for a link to all of my lesson powerpoints" # Lead text
+lead = "This page offers links to all of my A2 powerpoints" # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page

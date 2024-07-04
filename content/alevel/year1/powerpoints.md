@@ -6,7 +6,7 @@ date = 2024-07-04T11:22:36+01:00
 #Link is case sensitive!
 thumbnail = "img/alevel/asthumb.png" #Thumbnail image
 
-lead = "This area is for a link to all of my lesson powerpoints" # Lead text
+lead = "This page offers links to all of my AS powerpoints" # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
@@ -38,7 +38,7 @@ Evolution:- *Please don't worry about missing numbers, this has happened over ti
 11. [Floating Point and HEX](https://drive.google.com/drive/folders/10DHxsKHPPfiZjM2UFEKmDvjL_sLfiNj6?usp=sharing)
 12. [Development Methodologies](https://drive.google.com/drive/folders/1El_wpiLgmsnBJm2BeZbKbwCnq-pFkHpn?usp=sharing)
 
-More evolution *After changing textbooks I altered the order of the course, so some of the numbering goes a bit odd, lesson 12b has nothing to do with lesson 12 but they are delivered in that order.*
+More evolution:- *After changing textbooks I altered the order of the course, so some of the numbering goes a bit odd, lesson 12b has nothing to do with lesson 12 but they are delivered in that order.*
 
 12. b [Algorithms](https://drive.google.com/drive/folders/1k9HD3s5H4t1waWGSPjqVZEzcKahx1uef?usp=sharing) 
 13. [Compression](https://drive.google.com/drive/folders/1Or6WiGMj6XIBuiVJVp5iAWSMKdwmNUjq?usp=sharing)
