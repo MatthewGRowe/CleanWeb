@@ -6,8 +6,15 @@
     <description>Recent content on Under construction...</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 12:42:36 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 10:50:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WinForms - Getting Started</title>
+      <link>http://localhost:1313/winforms/winformsgettingstarted/</link>
+      <pubDate>Wed, 03 Jul 2024 10:50:33 +0100</pubDate>
+      <guid>http://localhost:1313/winforms/winformsgettingstarted/</guid>
+      <description>Winforms - What is it? Winforms projects are a simple way to get started with C# programming. They combine a simple front end (screen) with a closely linked backend (code).&#xA;Below is a very short overview of how to build a simple winforms project using C#. For guidance with a bit more clarity follow this link to my winforms resources link here&#xA;How to work with Winforms (a short guide) You&amp;rsquo;ll need some free software, MS Visual Studio Community Edition, avaliable here &amp;ndash;&amp;gt; Download Visual Studio.</description>
+    </item>
     <item>
       <title>Tutorial 1 - Choose a holiday!</title>
       <link>http://localhost:1313/winforms/downloadable-tutorial-1/</link>
@@ -72,6 +79,13 @@
       <description>Simply use this guide as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate. 1&#xA;CLICK HERE TO DOWNLOAD THE DOCUMENT&#xA;When editing any documents, please include an original author citation, thank you.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
+      <title>Tutorial 5 - Shooting - Ye ha!</title>
+      <link>http://localhost:1313/unity/unitymanual5/</link>
+      <pubDate>Mon, 01 Jul 2024 12:10:23 +0100</pubDate>
+      <guid>http://localhost:1313/unity/unitymanual5/</guid>
+      <description>Simply use this guide as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate. 1&#xA;CLICK HERE TO DOWNLOAD THE DOCUMENT&#xA;When editing any documents, please include an original author citation, thank you.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+    </item>
+    <item>
       <title>Testpage2</title>
       <link>http://localhost:1313/testpage2/</link>
       <pubDate>Mon, 01 Jul 2024 10:28:35 +0100</pubDate>
@@ -84,13 +98,6 @@
       <pubDate>Fri, 28 Jun 2024 14:52:16 +0100</pubDate>
       <guid>http://localhost:1313/posts/hello-world/</guid>
       <description></description>
-    </item>
-    <item>
-      <title>WinForms - Getting Started</title>
-      <link>http://localhost:1313/winforms/winformsgettingstarted/</link>
-      <pubDate>Wed, 26 Jun 2024 10:50:33 +0100</pubDate>
-      <guid>http://localhost:1313/winforms/winformsgettingstarted/</guid>
-      <description>Winforms - What is it? Winforms projects are a simple way to get started with C# programming. They combine a simple front end (screen) with a closely linked backend (code).&#xA;Below is a very short overview of how to build a simple winforms project using C#. For guidance with a bit more clarity follow this link to my winforms resources link here&#xA;How to work with Winforms (a short guide) You&amp;rsquo;ll need some free software, MS Visual Studio Community Edition, avaliable here &amp;ndash;&amp;gt; Download Visual Studio.</description>
     </item>
   </channel>
 </rss>
