@@ -6,7 +6,7 @@ date = 2024-07-04T11:22:36+01:00
 #Link is case sensitive!
 thumbnail = "img/api/cover2.png" #Thumbnail image
 
-lead = "This self-guided resource will enable you and your student's to build and work with Unity and C#.Net using Visual Studio.  Please download Unity and Visual Studio before starting this document." # Lead text
+lead = "These self-guided tutorials will enable you and your student's to build and work with APIs using both Winforms and MVC with C#.Net.  Some API providers require accounts, read the first section and where this is the case create the required account.  This may take up to two days to prepare." # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page

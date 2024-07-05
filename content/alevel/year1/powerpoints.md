@@ -15,7 +15,7 @@ sidebar = "right" # Enable sidebar (on the right side) per page
 #sidebar = false # Disable sidebar 
 #widgets: # Enable sidebar widgets in given order per page
 
-tags = [ "C#", "Winforms", "API" ]
+tags = [ "CS Theory" ]
 +++
 
 ## Overview
