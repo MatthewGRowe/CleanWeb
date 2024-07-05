@@ -33,21 +33,25 @@ You will need to download them and open in Word as reading online will make some
 
 # Recent Activity:
 
-* 01/07/24 - Uploaded a series of doucments to the Winforms area (not complete)
+* 01/07/24 - Uploaded a series of doucments to the Winforms area (not complete).
 * 02/07/24 - Uploaded Tutorial 1 (Player) to the Unity area.  
 * 03/07/24 - Uploaded Tutorial 2 (Enemies) to the Unity area. 
-* 03/07/24 - Added Tags to Enhance Navigation 
+* 03/07/24 - Added Tags to Enhance Navigation. 
 * 03/07/24 - Uploaded Tutorial 3 (Saw Blades) to the Unity area. 
 * 03/07/24 - Uploaded Tutorial 4 (Collectables) to the Unity area. 
-* 04/07/24 - Completed Unity Uploads
-* 04/07/24 - Added AS Content to A level Section
+* 04/07/24 - Completed Unity Uploads.
+* 04/07/24 - Added AS Content to A level Section.
+* 05/07/24 - Added A2 Content to A level Section.
+* 05/07/24 - Added SQL guide to A level Section.
+* 05/07/24 - Added Hashing, Db Access and String Handling to Winforms area.
 
 # Planned Activity:
 
-* Complete Winforms
-* Complete A2 Page
+* ~~Complete Winforms~~
+* ~~Complete A2 Page~~
 * ~~Complete Unity~~
-* Add API / ASP documents
+* ~~Add API / ASP documents~~
+* Proofreading (apparently it is one word!)
 * Add "About Me" page
 * Add "Hugo/Markdown/Git Hub hosting section"
 
