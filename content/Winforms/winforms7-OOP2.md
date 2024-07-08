@@ -14,12 +14,16 @@ toc = true # Enable Table of Contents for specific page
 sidebar = "right" # Enable sidebar (on the right side) per page
 #sidebar = false # Disable sidebar 
 #widgets: # Enable sidebar widgets in given order per page
-
+weight = 7
 tags = [ "Winforms", "C#", "OOP", "Classes", "Objects", "Attributes", "Constructors" ]
 +++
 
-<!-- #How to quickly get a winforms app up and running-->
+# Overview - Winforms and C# Object Orientation - The Details:
+To use this guide you will need to download and install MS Visual Studio. It is recommended that you install the latest version.  Some of the screenshots in this guide have been taken from older versions but should not differ too much.  
+
 Simply use this guide as a self-guided classroom / training room resource.  It has been written in MS Word so you can use it as is, or you can edit  as appropriate. [^*]
+
+[![Winforms - OOP2](/img/winforms/OOP/cover2.png)](https://drive.google.com/drive/folders/11lMwZYvxbKUVuaGyx9zhP66gTdC2ETbu?usp=sharing)
 
 [CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/11lMwZYvxbKUVuaGyx9zhP66gTdC2ETbu?usp=sharing)
 

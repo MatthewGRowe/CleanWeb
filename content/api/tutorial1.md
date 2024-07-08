@@ -6,26 +6,22 @@ date = 2024-07-04T11:22:36+01:00
 #Link is case sensitive!
 thumbnail = "img/api/cover1.png" #Thumbnail image
 
-lead = "These self-guided tutorials will enable you and your student's to build and work with APIs using both Winforms and MVC with C#.Net.  Some API providers require accounts, read the first section and where this is the case create the required account.  This may take up to two days to prepare." # Lead text
-comments = false # Enable Disqus comments for specific page
+lead = "This tutorial will enable you to access data from an API in Winforms.  It is a good place to start as you don't need to learn MVC you can do everything you need within a familiar WinForms environment." # Lead text
+comments = true # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
-toc = true # Enable Table of Contents for specific page
+toc = false # Enable Table of Contents for specific page
 sidebar = "right" # Enable sidebar (on the right side) per page
 #sidebar = false # Disable sidebar 
 #widgets: # Enable sidebar widgets in given order per page
 
 tags = [ "C#", "Winforms", "API" ]
+weight = 1
 +++
 
-## Overview
+## Overview: 
 
-This tutorial will enable you to access data from an API in winform.  It is a good place to start as you don't need to learn MVC you can do everything you need within a familiar WinForms environment.
-
-<!-- #How to quickly get a winforms app up and running-->
-Simply use the document below as a self-guided classroom / training room resource.  It has been written in MS Word so you can use it as is, or you can edit  as appropriate. [^*]
-
-[CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/1CIpk2r0EXS-AJHt05GDu_Lv0yC8nXP-T?usp=sharing)
+This tutorial will enable you to access data from an API in Winforms.  The written guide (below) accompanies the video tutorial.  It is a good place to start as you don't need to learn MVC you can do everything you need within a familiar WinForms environment.
 
 ## Video Tutorial
 
@@ -34,5 +30,18 @@ It is accompanied by a video tutorial which you can view here:
 <!-- https://youtu.be/JDmV-JDCjcI -->  
 
 {{< youtube JDmV-JDCjcI>}}
+
+#
+
+## Written Instructions
+
+Simply use the document below as a self-guided classroom / training room resource.  It has been written in MS Word so you can use it as is, or you can edit  as appropriate. [^*]
+
+[![API - Tutorial 1](/img/api/cover1.png)](https://drive.google.com/drive/folders/1CIpk2r0EXS-AJHt05GDu_Lv0yC8nXP-T?usp=sharing)
+
+
+[CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/1CIpk2r0EXS-AJHt05GDu_Lv0yC8nXP-T?usp=sharing)
+
+
 
 [^*]: When editing any documents, please include an original author citation, thank you. 

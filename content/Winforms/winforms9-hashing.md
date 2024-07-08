@@ -14,12 +14,17 @@ toc = true # Enable Table of Contents for specific page
 sidebar = "right" # Enable sidebar (on the right side) per page
 #sidebar = false # Disable sidebar 
 #widgets: # Enable sidebar widgets in given order per page
-
+weight = 9
 tags = [ "Winforms", "C#", "Hashing" ]
 +++
 
-<!-- #How to quickly get a winforms app up and running-->
+# Overview - Hashing, A Simple Overview:
+
+To use this guide you will need to download and install MS Visual Studio. It is recommended that you install the latest version.  Some of the screenshots in this guide have been taken from older versions but should not differ too much.  
+
 Simply use this guide as a self-guided classroom / training room resource.  It has been written in MS Word so you can use it as is, or you can edit  as appropriate. [^*]
+
+[![Winforms - Hashing](/img/winforms/covers/coverHash.png)](https://drive.google.com/drive/folders/1Oc9QdmUwWYBSiDGmJQ6dss66xAFuG_SQ?usp=drive_link)
 
 [CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/1Oc9QdmUwWYBSiDGmJQ6dss66xAFuG_SQ?usp=drive_link)
 

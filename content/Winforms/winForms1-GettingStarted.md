@@ -14,6 +14,7 @@ toc = true # Enable Table of Contents for specific page
 sidebar = "right" # Enable sidebar (on the right side) per page
 #sidebar = false # Disable sidebar 
 #widgets: # Enable sidebar widgets in given order per page
+weight = 1
 +++
 
 # Winforms - What is it?
@@ -23,7 +24,7 @@ Below is a very short overview of how to build a simple winforms project using C
 
 ## How to work with Winforms (a short guide)
 
-You'll need some free software, MS Visual Studio Community Edition, **avaliable here -->** [Download Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false).
+You'll need some free software, MS Visual Studio Community Edition, **available here -->** [Download Visual Studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false).
 
 To start a winforms project simply follow these steps [^1]:
 
@@ -106,10 +107,10 @@ namespace MyFirstWinformsProject
             //called "message"
             string message = textBox1.Text;
 
-            //If the user wrote a message (length greather than zero)
+            //If the user wrote a message (length greater than zero)
             if (message.Length > 0)
             {
-                //Draw a messagebox with the user's message in it
+                //Draw a message box with the user's message in it
                 MessageBox.Show("You wrote: " + message);
             }
             else //otherwise

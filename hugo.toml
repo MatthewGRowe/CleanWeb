@@ -1,11 +1,14 @@
 baseURL = 'https://matthewrowe.co.uk/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = "Under construction..."
 theme = 'mainroad'
 contentDir = 'content'
+[services]
+  [services.disqus]
+    shortname = "@disqus_ENqqZyyZeH"
 
 # MainRoad Theme settings #
-paginate = "10" # Number of posts per page
+paginate = "1" # Number of posts per page
 
 [Params.logo]
   image = "img/myface.jpg" # Logo image. Path relative to "static"
@@ -18,12 +21,16 @@ paginate = "10" # Number of posts per page
   single = "right"
 
 # Enable widgets in given order
-widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+widgets = ["search", "taglist", "social"]
 
 [Params.widgets]
-  recent_num = 0 # Set the number of articles in the "Recent articles" widget
-  categories_counter = false # Enable counter for each category in "Categories" widget
+  #recent_num = 8 # Set the number of articles in the "Recent articles" widget
+  categories_counter = true # Enable counter for each category in "Categories" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
+
+[Params.thumbnail]
+  visibility = ["list"] # Control thumbnail visibility set to list only so you don't see it in the main pages
+  
 
 [Params.widgets.social]
   cached = false # activate cache if true
@@ -47,15 +54,15 @@ widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
   avatar = "/img/myface.jpg"
 
   [Params]
-  description = "Matthew Rowe's Instructions and Information" # Site description. Used in meta description
+  description = "Matthew Rowe's C#, Winforms, MVC, Unity tutorials.  H446/01, H446/02, H046/01, H046/02" # Site description. Used in meta description
   copyright = "Matthew Rowe -->" # Footer copyright holder, otherwise will use site title
   #opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
   #twitter_cards = true # Enable Twitter Cards if true
-  readmore = false # Show "Read more" button in list if true
+  readmore = true # Show "Read more" button in list if true
   authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
-  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  pager = false  # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   #mainSections = ["recent", "post", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "02-01-2006" # Change the format of dates

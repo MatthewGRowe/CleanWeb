@@ -6,7 +6,7 @@ date = 2024-07-04T11:22:36+01:00
 #Link is case sensitive!
 thumbnail = "img/alevel/year2thumb.png" #Thumbnail image
 
-lead = "This page offers links to all of my A2 powerpoints" # Lead text
+lead = "This page offers links to all of my A2 PowerPoints" # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
@@ -14,7 +14,7 @@ toc = true # Enable Table of Contents for specific page
 sidebar = "right" # Enable sidebar (on the right side) per page
 #sidebar = false # Disable sidebar 
 #widgets: # Enable sidebar widgets in given order per page
-
+weight = 2
 tags = [ "CS Theory" ]
 +++
 

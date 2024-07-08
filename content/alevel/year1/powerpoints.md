@@ -1,12 +1,12 @@
 +++
-title = 'AS (year 1) - Powerpoints'
+title = 'AS (year 1) - PowerPoints'
 date = 2024-07-04T11:22:36+01:00
 
 #Theme-Defined params
 #Link is case sensitive!
 thumbnail = "img/alevel/asthumb.png" #Thumbnail image
 
-lead = "This page offers links to all of my AS powerpoints" # Lead text
+lead = "This page offers links to all of my AS PowerPoints" # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
@@ -14,6 +14,7 @@ toc = true # Enable Table of Contents for specific page
 sidebar = "right" # Enable sidebar (on the right side) per page
 #sidebar = false # Disable sidebar 
 #widgets: # Enable sidebar widgets in given order per page
+weight = 1
 
 tags = [ "CS Theory" ]
 +++
@@ -44,10 +45,10 @@ More evolution:- *After changing textbooks I altered the order of the course, so
 13. [Compression](https://drive.google.com/drive/folders/1Or6WiGMj6XIBuiVJVp5iAWSMKdwmNUjq?usp=sharing)
 14. [Databases](https://drive.google.com/drive/folders/1YXZ2JnBMu4Muyqe3gU82HbAosezPpo7j?usp=drive_link)
 15. [HTML and CSS](https://drive.google.com/drive/folders/1qhvZEQfkdNaNRW8GA19ZpbNdEQuNaXPL?usp=drive_link)
-16. [Pesudocode and Search Engines](https://drive.google.com/drive/folders/1jjErDnJxXxgqX664R_w4NMRf0YgSVxdk?usp=drive_link)
-17. [Netowrks](https://drive.google.com/drive/folders/1S_22nbl0vx31jKR3VavVE-QclFRwhOz3?usp=sharing)
+16. [Pseudocode and Search Engines](https://drive.google.com/drive/folders/1jjErDnJxXxgqX664R_w4NMRf0YgSVxdk?usp=drive_link)
+17. [Networks](https://drive.google.com/drive/folders/1S_22nbl0vx31jKR3VavVE-QclFRwhOz3?usp=sharing)
 18. [Revision and Project](https://drive.google.com/drive/folders/1PLbeICsP7RF6BCTuJT9cMkgImqkWFRJX?usp=drive_link)
-19. [Data Strucutres](https://drive.google.com/drive/folders/1EJ2w2k0WOSo5Fy5-8t8WkQfEQXILHepI?usp=drive_link)
+19. [Data Structures](https://drive.google.com/drive/folders/1EJ2w2k0WOSo5Fy5-8t8WkQfEQXILHepI?usp=drive_link)
 20. [Project Ideas](https://drive.google.com/drive/folders/1fZ8R2wmD_mP-1Bs45aNy-EIm6W-SRK-3?usp=drive_link)
 21. [Boolean Logic and K-Maps](https://drive.google.com/drive/folders/1tgmXt58joMLQGC7Df45RwdUgM9M0KfQi?usp=drive_link)
 23. [Laws and Ethics](https://drive.google.com/drive/folders/1fmL6SZfZXZo-AhnW2w-L4HUQgniANEGG?usp=sharing)
@@ -61,7 +62,7 @@ More evolution:- *After changing textbooks I altered the order of the course, so
 #
 27. part B [Algorithms for Sorting](https://drive.google.com/drive/folders/1OH0k_43fXlxOZAtJ-4l7CZdYgGYeFbX2?usp=drive_link)
 
-## H046 - Revison
+## H046 - Revision
 
 28. [Revision DB and Networks](https://drive.google.com/drive/folders/1c5lISaRHM-4ATqj95deOqSIq3DIRn8Qs?usp=drive_link)
 29. [Revision Binary Arithmetic - with cool music!](https://drive.google.com/drive/folders/1i413G0KZurEkq4gxNtZIRlpzaFE519RI?usp=drive_link)
