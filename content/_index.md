@@ -62,3 +62,5 @@ You will need to download them and open in Word as reading online will make some
 
 Below you can see the latest articles added to this site.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MatthewGRowe.CleanWeb.issue.1)
+

@@ -3,6 +3,9 @@ languageCode = 'en-gb'
 title = "Tutorials & PPTs: C#, Unity 2D, Winforms, MVC, ASP, H046, H446..."
 theme = 'mainroad'
 contentDir = 'content'
+googleAnalytics = "G-WLRJGWNQ13"
+
+
 [services]
   [services.disqus]
     shortname = "@disqus_ENqqZyyZeH"
