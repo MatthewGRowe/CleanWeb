@@ -4,7 +4,7 @@ date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
 #Link is case sensitive!
-#thumbnail = "img/alevel/sqlthumb.png" #Thumbnail image
+thumbnail = "img/alevel/sqlthumb.png" #Thumbnail image
 
 lead = "Need to learn SQL?  This practical guide will show you the basics from a standing start." # Lead text
 comments = false # Enable Disqus comments for specific page
