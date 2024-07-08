@@ -6,7 +6,7 @@ date = 2024-07-01T12:10:23+01:00
 #Link is case sensitive!
 thumbnail = "img/unity/cover5.png" #Thumbnail image
 
-lead = "It is important to have a gun and to be able to shoot people!  Not a political statement but a game developer mantra, learn how to shoot your enemies in the face, or wherever takes your fancy with this guide." # Lead text
+lead = "It is important to have a gun and to be able to shoot your enemies with it!  Not a political statement but a game developer mantra, learn how to shoot your enemies in the face, or wherever takes your fancy with this guide." # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
