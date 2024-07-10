@@ -18,9 +18,8 @@ You will need to download them and open in Word as reading online will make some
 
 # Recent Activity:
 
-* 10/07/24 - Added About page
+* 10/07/24 - Added 'About' page
 * 10/07/24 - Added YouTube link
-* 10/07/24 - Added new email
 * 08/07/24 - Replaced thumbnails in pages to contain hyperlinked images.
 * 08/07/24 - Changed indexes to contain thumbnails.
 * 08/07/24 - Removed the 'page overview' from section indexes.
