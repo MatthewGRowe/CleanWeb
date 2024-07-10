@@ -5,13 +5,16 @@ theme = 'mainroad'
 contentDir = 'content'
 googleAnalytics = "G-WLRJGWNQ13"
 
+#Include this if you want to see comments etc.
+#[markup.goldmark.renderer] 
+#unsafe = true
 
 [services]
   [services.disqus]
     shortname = "@disqus_ENqqZyyZeH"
 
 # MainRoad Theme settings #
-paginate = "1" # Number of posts per page
+paginate = "10" # Number of posts per page
 
 [Params.logo]
   image = "img/myface.jpg" # Logo image. Path relative to "static"
@@ -27,7 +30,7 @@ paginate = "1" # Number of posts per page
 widgets = ["search", "taglist", "social"]
 
 [Params.widgets]
-  #recent_num = 8 # Set the number of articles in the "Recent articles" widget
+  recent_num = 8 # Set the number of articles in the "Recent articles" widget
   categories_counter = true # Enable counter for each category in "Categories" widget
   tags_counter = true # Enable counter for each tag in "Tags" widget
 
@@ -40,38 +43,34 @@ widgets = ["search", "taglist", "social"]
   # Enable parts of social widget
   github = "MatthewGRowe"
   email = "mrowe@eastnorfolk.ac.uk"
-  #facebook = "username"
-  #twitter = "@test"
-  #instagram = "username"
   linkedin = "mattict"
-  #telegram = "username"
-  #gitlab = "username"
-  #bitbucket = "username"
-  
+
+# Custom social links
+[[Params.widgets.social.custom]]
+  title = "YouTube"
+  url = "https://www.youtube.com/channel/UCmG1_HQSkbXjr7skvOmBn2w"
+  icon = "svg/youtube.svg" # Optional. Path relative to "layouts/partials"
+  rel = false #"noopener noreferrer" # Set to false to remove the rel attribute
+
 # Used in authorbox at the top of each page, need to add the 
-# authorbox option in the page frontmatter "authorbox: true"
-  [Author] 
+# authorbox option in the page front matter "authorbox: true"
+[Author] 
   name = "Matthew Rowe"
   #bio appears at the bottom of the page
-  bio = "Matthew Rowe is a computing lecturer who writes accessable educational materials for use by anyone who wants to learn.  Feel free to contact me, mrowe@eastnorfolk.ac.uk."
+  bio = "Matthew Rowe is a computing lecturer who writes accessible educational materials for use by anyone who wants to learn.  Feel free to contact me, mrowe@eastnorfolk.ac.uk."
   avatar = "/img/myface.jpg"
 
-  [Params]
+[Params]
   description = "Matthew Rowe's C#, Winforms, MVC, Unity tutorials.  H446/01, H446/02, H046/01, H046/02" # Site description. Used in meta description
   copyright = "Matthew Rowe" # Footer copyright holder, otherwise will use site title
-  #opengraph = true # Enable OpenGraph if true
   schema = true # Enable Schema
-  #twitter_cards = true # Enable Twitter Cards if true
   readmore = true # Show "Read more" button in list if true
   authorbox = true # Show authorbox at bottom of pages if true
   toc = true # Enable Table of Contents
-  pager = false  # Show pager navigation (prev/next links) at the bottom of pages if true
+  pager = true  # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
-  #mainSections = ["recent", "post", "news"] # Specify section pages to show on home page and the "Recent articles" widget
+  mainSections = ["recent", "post", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "02-01-2006" # Change the format of dates
-  #mathjax = true # Enable MathJax
-  #mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
-  #mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
   #customCSS = ["css/custom.css"] # Include custom CSS files
   #customJS = ["js/custom.js"] # Include custom JS files

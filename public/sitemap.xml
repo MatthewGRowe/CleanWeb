@@ -182,6 +182,9 @@
     <loc>http://localhost:1313/testpage2/</loc>
     <lastmod>2024-07-01T10:28:35+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
+    <lastmod>2024-06-28T14:52:16+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-06-28T14:52:16+01:00</lastmod>
   </url><url>

@@ -176,5 +176,12 @@
       <guid>http://localhost:1313/testpage2/</guid>
       <description>This is a test page </description>
     </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 28 Jun 2024 14:52:16 +0100</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
