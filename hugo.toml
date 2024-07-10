@@ -47,7 +47,7 @@ widgets = ["search", "social", "taglist"]
 
 # Custom social links
 [[Params.widgets.social.custom]]
-  title = "YouTube"
+  title = "𑥅YouTube"
   url = "https://www.youtube.com/channel/UCmG1_HQSkbXjr7skvOmBn2w"
   icon = "svg/youtube.svg" # Optional. Path relative to "layouts/partials"
   rel = false #"noopener noreferrer" # Set to false to remove the rel attribute
