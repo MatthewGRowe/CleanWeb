@@ -7,7 +7,7 @@ date = 2024-07-10T11:11:57+01:00
 # Summary 
 
 * Computing teacher 
-* Qualified working  electrician (18th Ed.)
+* Qualified working electrician (17th Ed.)
 * Programmer (C#.Net, VB.Net, SQL, Python, Webdev)
 * *Hobbies: Car Mechanics, Pool, Power tools*
 
