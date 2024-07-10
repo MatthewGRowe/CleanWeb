@@ -18,20 +18,19 @@ You will need to download them and open in Word as reading online will make some
 
 # Recent Activity:
 
-* 01/07/24 - Uploaded a series of documents to the Winforms area (not complete).
-* 02/07/24 - Uploaded Tutorial 1 (Player) to the Unity area.  
-* 03/07/24 - Uploaded Tutorial 2 (Enemies) to the Unity area. 
-* 03/07/24 - Added Tags to Enhance Navigation. 
-* 03/07/24 - Uploaded Tutorial 3 (Saw Blades) to the Unity area. 
-* 03/07/24 - Uploaded Tutorial 4 (Collectables) to the Unity area. 
-* 04/07/24 - Completed Unity Uploads.
-* 04/07/24 - Added AS Content to A level Section.
+* 10/07/24 - Added About page
+* 10/07/24 - Added YouTube link
+* 10/07/24 - Added new email
+* 08/07/24 - Replaced thumbnails in pages to contain hyperlinked images.
+* 08/07/24 - Changed indexes to contain thumbnails.
+* 08/07/24 - Removed the 'page overview' from section indexes.
 * 05/07/24 - Added A2 Content to A level Section.
 * 05/07/24 - Added SQL guide to A level Section.
 * 05/07/24 - Added Hashing, Db Access and String Handling to Winforms area.
-* 08/07/24 - Removed the 'page overview' from section indexes.
-* 08/07/24 - Changed indexes to contain thumbnails.
-* 08/07/24 - Replaced thumbnails in pages to contain hyperlinked images.
+* 04/07/24 - Added AS Content to A level Section.
+
+
+
 
 # Planned Activity:
 
