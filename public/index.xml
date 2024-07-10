@@ -6,7 +6,7 @@
     <description>Recent content on Tutorials &amp; PPTs: C#, Unity 2D, Winforms, MVC, ASP, H046, H446...</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 04 Jul 2024 11:22:36 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 11:11:57 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AS (year 1) - PowerPoints</title>
@@ -161,6 +161,13 @@
       <pubDate>Sat, 01 Jun 2024 12:42:36 +0100</pubDate>
       <guid>http://localhost:1313/winforms/winforms11-dbaccess/</guid>
       <description>Overview - Make Your App Work With An Access Database: To use this guide you will need to download and install MS Visual Studio. It is recommended that you install the latest version. Some of the screenshots in this guide have been taken from older versions but should not differ too much.&#xA;Simply use this guide as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate.</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 10 Jul 2024 11:11:57 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Summary Computing teacher Qualified working electrician (18th Ed.) Programmer (C#.Net, VB.Net, SQL, Python, Webdev) Hobbies: Car Mechanics, Pool, Power tools Career East Norfolk Sixth Form (2016 - Present) - Lecturer A level Computer Science (OCR) BTEC Computing Level 3 T Level Digital Domestic Electrical Contractor (2015 - Present) Domestic Electrical Work General Construction and Maintenance Flegg High School (2015 - 2016) - Teacher GCSE Computer Science (OCR) GCSE Business (Edexcel) BTEC Workskills level 2 Great Yarmouth College (2010-2015) - Lecturer BTEC Computing Level 3 BTEC Computing Level 2 Special Educational Needs University Campus Suffolk (2010-2015) - Lecturer BSc(H) Applied Computing RDBMS Programming Business Accounting C# Programming Dissertation Management Lowestoft Sixth Form (2015-2017) - Contract Lecturer from GYC BTEC Computing Level 3 Redbridge College (2006-2010) - Area Manager Manager of E2E Manager of Construction Manager of Key Stage 4 Redbridge College (2002-2006) - Lecturer BTEC Computing Level 3 BTEC Computing Level 2 Special Educational Needs ADC Richmond (2002-2005) - Network Management Consultant Unix Admin Oracle PL/SQL Citrix Logica (now CMG) (1998-2002) - Network Management Consultant Unix Admin NetExpert Oracle Contracted at COLT Telecom Production of Client Training Courses </description>
     </item>
     <item>
       <title>A guide to SQL in Access</title>

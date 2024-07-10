@@ -1,25 +1,10 @@
 +++
 date = 2024-06-26T10:34:54+01:00
 
-
-#Menu 
-#Can use to add a new menu for just this page!
-#title = "Blimey"  #What you see on the menu
-#On the right-hand site
-#categories = [ "Category 1", "Category 2" ] #appear in the "categories section"
-#tags = [ "Test", "Another test" ]  #Buttons which appear in the "tags" section
-#menus = "main"
-
 #Theme-Defined params
 thumbnail = "img/myface.jpg" # Thumbnail image
 lead = "A short tutorial showing how to build your first winforms project" # Lead text
-comments = true # Enable Disqus comments for specific page
-#authorbox = true # Enable authorbox for specific page
-pager = true # Enable pager navigation (prev/next) for specific page
-toc = true # Enable Table of Contents for specific page
-#sidebar = "right" # Enable sidebar (on the right side) per page
-#sidebar = true # Disable sidebar 
-#widgets = [ "search", "recent", "taglist" ] # Enable sidebar widgets in given order per page
+
 +++
 
 <!-- ![alt text](img/avatar.png) -->
@@ -55,7 +40,7 @@ You will need to download them and open in Word as reading online will make some
 * ~~Complete Unity~~
 * ~~Add API / ASP documents~~
 * Proofreading (ongoing)
-* Add "About Me" page
+* ~~Add "About Me" page~~
 * Add "Hugo/Markdown/Git Hub hosting section"
 
 <!--# Recent Articles:

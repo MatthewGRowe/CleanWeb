@@ -27,7 +27,7 @@ paginate = "10" # Number of posts per page
   single = "right"
 
 # Enable widgets in given order
-widgets = ["search", "taglist", "social"]
+widgets = ["search", "social", "taglist"]
 
 [Params.widgets]
   recent_num = 8 # Set the number of articles in the "Recent articles" widget
@@ -42,7 +42,7 @@ widgets = ["search", "taglist", "social"]
   cached = false # activate cache if true
   # Enable parts of social widget
   github = "MatthewGRowe"
-  email = "mrowe@eastnorfolk.ac.uk"
+  email = "matt@matthewrowe.co.uk"
   linkedin = "mattict"
 
 # Custom social links
@@ -98,4 +98,7 @@ widgets = ["search", "taglist", "social"]
     name = 'A-Level'
     pageRef = '/alevel'
     weight = 50
-   
+  [[menus.main]]
+    name = 'About Me'
+    pageRef = 'about'
+    weight = 60
