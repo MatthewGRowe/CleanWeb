@@ -17,6 +17,7 @@ date = 2024-07-10T11:11:57+01:00
     * *A level Computer Science (OCR)*
     * *BTEC Computing Level 3*
     * *T Level Digital*
+    * *Trips Organised: Tallinn (Malware Bytes, TalTech), University of Lincoln, Computing History Museum*
 * **Domestic Electrical Contractor (2015 - Present)**
     * *Domestic Electrical Work*
     * *General Construction and Maintenance*
@@ -28,6 +29,7 @@ date = 2024-07-10T11:11:57+01:00
     *  *BTEC Computing Level 3*
     *  *BTEC Computing Level 2*
     *  *Special Educational Needs*
+    *  *Trips Organised: Prague, New York*
 * **University Campus Suffolk (2010 - 2015) - Lecturer**
     * BSc(H) Applied Computing
     * *RDBMS Programming*
@@ -44,15 +46,18 @@ date = 2024-07-10T11:11:57+01:00
     *  *BTEC Computing Level 3*
     *  *BTEC Computing Level 2*
     *  *Special Educational Needs*
+    *  *Trips Organised: Ford, Thorpe Park*
 * **ADC Richmond (2002 - 2005) - Network Management Consultant**
     * Unix Admin
     * Oracle
     * PL/SQL
     * Citrix
+    * Onsite contract work @ O2, Vodafone (Munich)
+
 * **Logica *(now CMG)* (1998-2002) - Network Management Consultant**
     * Unix Admin
     * NetExpert
     * Oracle
-    * Contracted at COLT Telecom
+    * Onsite contract work @ COLT Telecom, Proximus (Belgium), Hutchison 3G (Three)
     * Production of Client Training Courses
 
