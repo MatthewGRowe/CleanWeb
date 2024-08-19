@@ -57,7 +57,7 @@ widgets = ["search", "social", "taglist"]
 [Author] 
   name = "Matthew Rowe"
   #bio appears at the bottom of the page
-  bio = "Matthew Rowe is a computing lecturer who writes accessible educational materials for use by anyone who wants to learn.  Feel free to contact me [Email](mailto:matt@matthewrowe.co.uk)"
+  bio = "Matthew Rowe is a computing lecturer who writes accessible educational materials for use by anyone who wants to learn.  Feel free to contact me [matt@matthewrowe.co.uk](mailto:matt@matthewrowe.co.uk)"
   avatar = "/img/myface.jpg"
 
 [Params]
