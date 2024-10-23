@@ -36,7 +36,7 @@ Evolution:- *Please don't worry about missing numbers, this has happened over ti
 8. [Distributed, Embedded, Etc... OS](https://drive.google.com/drive/folders/12x9-SKyeTgz0IfRie7MSpzIM7iEmYB92?usp=sharing)
 9. [Compilers, Assemblers and Open Source](https://drive.google.com/drive/folders/1cnDWOPPPRLEnA5Z3lHvRq2k2Oavl6a2t?usp=drive_link)
 10. [Binary Arithmetic](https://drive.google.com/drive/folders/1zMKlBbsmDxGoayOKotoZHRYwKFLLpw8P?usp=drive_link)
-11. [Floating Point and HEX](https://drive.google.com/drive/folders/10DHxsKHPPfiZjM2UFEKmDvjL_sLfiNj6?usp=sharing)
+11. [Mantissas/Exponents and HEX](https://drive.google.com/drive/folders/10DHxsKHPPfiZjM2UFEKmDvjL_sLfiNj6?usp=sharing)
 12. [Development Methodologies](https://drive.google.com/drive/folders/1El_wpiLgmsnBJm2BeZbKbwCnq-pFkHpn?usp=sharing)
 
 More evolution:- *After changing textbooks I altered the order of the course, so some of the numbering goes a bit odd, lesson 12b has nothing to do with lesson 12 but they are delivered in that order.*
