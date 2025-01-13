@@ -30,7 +30,7 @@ Below you will find links to the PowerPoints and associated resources that I use
 4. [RISC v CISC and Von Newmann v Harvard](https://drive.google.com/drive/folders/1BM5usvSLoF_8c6amCd9sNSd7yl36oluE?usp=sharing)
 
 
-Evolution:- *Please don't worry about missing numbers, this has happened over time.*
+Evolution:- *Please don't worry about missing numbers, the order has shifted over time.*
 
 7. [OS and CPU Scheduling](https://drive.google.com/drive/folders/1xuRGSXXul2U4mJXJNMTmwx5XooUCbt98?usp=sharing)
 8. [Distributed, Embedded, Etc... OS](https://drive.google.com/drive/folders/12x9-SKyeTgz0IfRie7MSpzIM7iEmYB92?usp=sharing)
