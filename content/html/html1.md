@@ -29,7 +29,7 @@ To use this guide you will need to download and install Notepad++.
 
 Simply use this guide as a self-guided classroom / training room resource.  It has been written in MS Word so you can use it as is, or you can edit  as appropriate. [^*]
 
-[![HTML - Tutorial 1](/img/html/cover1.png)](https://drive.google.com/drive/folders/155PSFUrYyz902cUlvVjJBzlLJug-zMQ6?usp=sharing)
+[![HTML - Tutorial 1](/img/html/cover1.jpg)](https://drive.google.com/drive/folders/155PSFUrYyz902cUlvVjJBzlLJug-zMQ6?usp=sharing)
 
 [CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/155PSFUrYyz902cUlvVjJBzlLJug-zMQ6?usp=sharing)
 
