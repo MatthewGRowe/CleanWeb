@@ -18,6 +18,9 @@ sidebar = "right" # Enable sidebar (on the right side) per page
 weight = 1
 
 tags = [ "HTML", "Javascript", "CSS", "Cascading Style Sheets"]
+
+# Add this line to enable the "Read More..." button
+readmore = true
 +++
 
 <!-- A random comment needed or the button would not display?!-->
