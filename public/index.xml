@@ -13,7 +13,7 @@
       <link>http://localhost:1313/alevel/year1/powerpoints/</link>
       <pubDate>Thu, 04 Jul 2024 11:22:36 +0100</pubDate>
       <guid>http://localhost:1313/alevel/year1/powerpoints/</guid>
-      <description>Overview Below you will find links to the PowerPoints and associated resources that I use to deliver the OCR AS Level Computer Science Course.&#xA;H046/01 - Paper 1 Pseudocode Memory Programming (you will need some winforms experience for this one) RISC v CISC and Von Newmann v Harvard Evolution:- Please don&amp;rsquo;t worry about missing numbers, this has happened over time.&#xA;OS and CPU Scheduling Distributed, Embedded, Etc&amp;hellip; OS Compilers, Assemblers and Open Source Binary Arithmetic Floating Point and HEX Development Methodologies More evolution:- After changing textbooks I altered the order of the course, so some of the numbering goes a bit odd, lesson 12b has nothing to do with lesson 12 but they are delivered in that order.</description>
+      <description>Overview Below you will find links to the PowerPoints and associated resources that I use to deliver the OCR AS Level Computer Science Course.&#xA;H046/01 - Paper 1 Pseudocode Memory Programming (you will need some winforms experience for this one) RISC v CISC and Von Newmann v Harvard Evolution:- Please don&amp;rsquo;t worry about missing numbers, the order has shifted over time.&#xA;OS and CPU Scheduling Distributed, Embedded, Etc&amp;hellip; OS Compilers, Assemblers and Open Source Binary Arithmetic Mantissas/Exponents and HEX Development Methodologies More evolution:- After changing textbooks I altered the order of the course, so some of the numbering goes a bit odd, lesson 12b has nothing to do with lesson 12 but they are delivered in that order.</description>
     </item>
     <item>
       <title>Tutorial 1 - Access an API with Winforms</title>
@@ -31,10 +31,24 @@
     </item>
     <item>
       <title>Tutorial 1 - Make a character move!</title>
+      <link>http://localhost:1313/html/unitymanual1/</link>
+      <pubDate>Mon, 01 Jul 2024 12:42:36 +0100</pubDate>
+      <guid>http://localhost:1313/html/unitymanual1/</guid>
+      <description>Overview - Player Setup: To use this guide you will need to download and install Unity and MS Visual Studio. It is recommended that you install the latest versions. Some of the screenshots in this guide have been taken from older versions but should not differ too much.&#xA;Simply use this guide as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate.</description>
+    </item>
+    <item>
+      <title>Tutorial 1 - Make a character move!</title>
       <link>http://localhost:1313/unity/unitymanual1/</link>
       <pubDate>Mon, 01 Jul 2024 12:42:36 +0100</pubDate>
       <guid>http://localhost:1313/unity/unitymanual1/</guid>
       <description>Overview - Player Setup: To use this guide you will need to download and install Unity and MS Visual Studio. It is recommended that you install the latest versions. Some of the screenshots in this guide have been taken from older versions but should not differ too much.&#xA;Simply use this guide as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate.</description>
+    </item>
+    <item>
+      <title>Get Started with HTML, CSS and Javascript!</title>
+      <link>http://localhost:1313/html/html1/</link>
+      <pubDate>Thu, 13 Jan 2022 12:42:36 +0100</pubDate>
+      <guid>http://localhost:1313/html/html1/</guid>
+      <description>Overview - Basic Interactive Website: To use this guide you will need to download and install Notepad++.&#xA;Simply use this guide as a self-guided classroom / training room resource. It has been written in MS Word so you can use it as is, or you can edit as appropriate. 1&#xA;CLICK HERE TO DOWNLOAD THE DOCUMENT&#xA;When editing any documents, please include an original author citation, thank you.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
       <title>A2 (second year) - Powerpoints</title>
@@ -182,13 +196,6 @@
       <pubDate>Mon, 01 Jul 2024 10:28:35 +0100</pubDate>
       <guid>http://localhost:1313/testpage2/</guid>
       <description>This is a test page </description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Fri, 28 Jun 2024 14:52:16 +0100</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
