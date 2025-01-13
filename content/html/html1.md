@@ -6,7 +6,8 @@ date = 2025-01-13T12:42:36+01:00
 #Link is case sensitive!
 thumbnail = "img/html/cover1.png" #Thumbnail image
 
-lead = "Get up and running with HTML, CSS and Javascript, this guide will enable you to build a simple interactive website." # Lead text
+lead = "Get up and running with HTML, CSS and Javascript, this guide will enable you to build a simple interactive website.  This guide has been written to enable you to work through the creation of an interactive website.  Feel free to add features and adjust the settings in the template.  There is a Zip file of basics included in link." # Lead text
+
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
