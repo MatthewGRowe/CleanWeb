@@ -1,12 +1,12 @@
 +++
-title = 'Tutorial 1 - Make a character move!'
+title = 'Get Started with HTML, CSS and Javascript!'
 date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
 #Link is case sensitive!
-thumbnail = "img/unity/cover1.png" #Thumbnail image
+thumbnail = "img/html/cover1.png" #Thumbnail image
 
-lead = "Get up and running with Unity, this guide will enable you to build a simple environment and get an animated player leaping around the screen." # Lead text
+lead = "Get up and running with web languages, this guide will enable you to build a simple interactive website." # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
@@ -16,18 +16,18 @@ sidebar = "right" # Enable sidebar (on the right side) per page
 #widgets: # Enable sidebar widgets in given order per page
 weight = 1
 
-tags = [ "Sprite Editing", "C# scripting", "Unity Physics", "Unity Character Movement", "Prefabs" ]
+tags = [ "HTML", "Javascript", "CSS", "Cascading Style Sheets"]
 +++
 
-<!-- #How to quickly get a winforms app up and running-->
-# Overview - Player Setup:
-To use this guide you will need to download and install Unity and MS Visual Studio. It is recommended that you install the latest versions.  Some of the screenshots in this guide have been taken from older versions but should not differ too much.  
+
+# Overview - Basic Interactive Website:
+To use this guide you will need to download and install Notepad++.  
 
 Simply use this guide as a self-guided classroom / training room resource.  It has been written in MS Word so you can use it as is, or you can edit  as appropriate. [^*]
 
-[![Unity - Tutorial 1](/img/unity/cover1.png)](https://drive.google.com/drive/folders/1A_Tu25CSw-S-tWHvkm0-HhCcIElY5gxY?usp=sharing)
+[![HTML - Tutorial 1](/img/html/cover1.png)](https://drive.google.com/drive/folders/155PSFUrYyz902cUlvVjJBzlLJug-zMQ6?usp=sharing)
 
-[CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/1A_Tu25CSw-S-tWHvkm0-HhCcIElY5gxY?usp=sharing)
+[CLICK HERE TO DOWNLOAD THE DOCUMENT](https://drive.google.com/drive/folders/155PSFUrYyz902cUlvVjJBzlLJug-zMQ6?usp=sharing)
 
 [^*]: When editing any documents, please include an original author citation, thank you. 
 

@@ -17,7 +17,7 @@ googleAnalytics = "G-WLRJGWNQ13"
 paginate = "10" # Number of posts per page
 
 [Params.logo]
-  image = "img/myface.jpg" # Logo image. Path relative to "static"
+  #image = "img/myface.jpg" # Logo image. Path relative to "static"
   title = "Matthew Rowe's Website" # Logo title, otherwise will use site title
   subtitle = "Easy to follow technical tutorials..." # Logo subtitle
 
