@@ -99,6 +99,10 @@ widgets = ["search", "social", "taglist"]
     pageRef = '/alevel'
     weight = 50
   [[menus.main]]
+    name = 'HTML Guide'
+    pageRef = '/html'
+    weight = 60
+  [[menus.main]]
     name = 'About Me'
     pageRef = 'about'
-    weight = 60
+    weight = 70

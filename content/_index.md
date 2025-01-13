@@ -2,7 +2,7 @@
 date = 2024-06-26T10:34:54+01:00
 
 #Theme-Defined params
-thumbnail = "img/myface.jpg" # Thumbnail image
+#thumbnail = "img/myface.jpg" # Thumbnail image
 lead = "A short tutorial showing how to build your first winforms project" # Lead text
 
 +++
@@ -27,6 +27,8 @@ You will need to download them and open in Word as reading online will make some
 * 05/07/24 - Added SQL guide to A level Section.
 * 05/07/24 - Added Hashing, Db Access and String Handling to Winforms area.
 * 04/07/24 - Added AS Content to A level Section.
+* 13/01/25 - Added HTML Section
+* 13/01/25 - Removed photograph from main page
 
 
 

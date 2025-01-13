@@ -1,12 +1,12 @@
 +++
-title = 'Get Started with HTML, CSS and Javascript!'
+title = 'Tutorial 1 - Make a character move!'
 date = 2024-07-01T12:42:36+01:00
 
 #Theme-Defined params
 #Link is case sensitive!
-thumbnail = "img/html/cover1.png" #Thumbnail image
+thumbnail = "img/unity/cover1.png" #Thumbnail image
 
-lead = "Get up and running with web languages, this guide will enable you to build a simple interactive website." # Lead text
+lead = "Get up and running with Unity, this guide will enable you to build a simple environment and get an animated player leaping around the screen." # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
@@ -16,12 +16,12 @@ sidebar = "right" # Enable sidebar (on the right side) per page
 #widgets: # Enable sidebar widgets in given order per page
 weight = 1
 
-tags = [ "HTML", "Javascript", "CSS", "Cascading Style Sheets"]
+tags = [ "Sprite Editing", "C# scripting", "Unity Physics", "Unity Character Movement", "Prefabs" ]
 +++
 
 <!-- #How to quickly get a winforms app up and running-->
-# Overview - Basic Interactive Website:
-To use this guide you will need to download and install Notepad++.  
+# Overview - Player Setup:
+To use this guide you will need to download and install Unity and MS Visual Studio. It is recommended that you install the latest versions.  Some of the screenshots in this guide have been taken from older versions but should not differ too much.  
 
 Simply use this guide as a self-guided classroom / training room resource.  It has been written in MS Word so you can use it as is, or you can edit  as appropriate. [^*]
 
