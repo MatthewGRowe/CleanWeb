@@ -1,12 +1,12 @@
 +++
 title = 'Get Started with HTML, CSS and Javascript!'
-date = 2024-07-01T12:42:36+01:00
+date = 2025-01-13T12:42:36+01:00
 
 #Theme-Defined params
 #Link is case sensitive!
 thumbnail = "img/html/cover1.png" #Thumbnail image
 
-lead = "Get up and running with web languages, this guide will enable you to build a simple interactive website." # Lead text
+lead = "Get up and running with HTML, CSS and Javascript, this guide will enable you to build a simple interactive website." # Lead text
 comments = false # Enable Disqus comments for specific page
 authorbox = true # Enable authorbox for specific page
 pager = true # Enable pager navigation (prev/next) for specific page
@@ -19,7 +19,7 @@ weight = 1
 tags = [ "HTML", "Javascript", "CSS", "Cascading Style Sheets"]
 +++
 
-
+<!-- A random comment needed or the button would not display?!-->
 # Overview - Basic Interactive Website:
 To use this guide you will need to download and install Notepad++.  
 
