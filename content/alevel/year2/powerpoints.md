@@ -75,7 +75,7 @@ Below you will find links to the PowerPoints and associated resources that I use
 41. [Revision - Encryption and Addressing Modes](https://drive.google.com/drive/folders/1XhaURBvZV_eX5dXceIhCzwFpocvAn3s-?usp=drive_link)
 42. [Revision - OOP](https://drive.google.com/drive/folders/1yPO9eWcFr_Zqb7E7ty-fCapuNIcn9jEL?usp=drive_link)
 43. [Revision - Hashing](https://drive.google.com/drive/folders/1nXZLkIavLKwSoKGIMxa_0MulHHz2HTkq?usp=drive_link)
-44. [Revision - Registers and Busses] (https://drive.google.com/drive/folders/18_0AVwvW1xMfoPNo8ClcC0n9ZWP9aNeS?usp=sharing)
+44. [Revision - Registers and Busses](https://drive.google.com/drive/folders/18_0AVwvW1xMfoPNo8ClcC0n9ZWP9aNeS?usp=sharing)
 
 
 ## H446/03 Programming Project
